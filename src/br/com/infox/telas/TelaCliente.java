@@ -137,6 +137,7 @@ public class TelaCliente extends javax.swing.JInternalFrame {
     private void limpar() {
         txtCliPesquisar.setText(null);
         txtCliId.setText(null);
+        txtCliNome.setText(null);
         txtCliEndereco.setText(null);
         txtCliFone.setText(null);
         txtCliEmail.setText(null);
